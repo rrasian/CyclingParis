@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <style>
+    #myMap {
+      width: 480px;
+      height: 320px;
+    }
+  </style>
+
+  <div>
+    <video id="myVid" width="480" height="320" controls>
+      <source src="CyclingParis.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div id="myMap"></div>
+
+  <script>
+    var gMap;
+
+    function initMap() {
+      gMap = new google.maps.Map(document.getElementById('myMap'), {
+        center: { lat: 0, lng: 0 },
+        zoom: 17
+      });
+    }
+
+    var myReq = new XMLHttpRequest();
+
+    myReq.onreadystatechange = function () {
+      if (myReq.readyState == 4 && myReq.status == 200) {
+        document.getElementById("myVid").addEventListener("timeupdate", myFunc);
+
+        var myDoc = myReq.responseXML;
+        var myTargetTag = myDoc.getElementsByTagName('trkpt');
+
+        function myFunc() {
+          var myVidPos = Math.round(document.getElementById("myVid").currentTime);
+
+          gMap.setCenter(new google.maps.LatLng(myTargetTag[myVidPos].getAttribute('lat'),
+            myTargetTag[myVidPos].getAttribute('lon')));
+
+          var myPathCoordinates = [];
+          var myTrackCoordinates = [];
+
+          for (var i = 0; i < myTargetTag.length; i++) {
+            myPathCoordinates.push({
+              lat: Number(myTargetTag[i].getAttribute('lat')),
+              lng: Number(myTargetTag[i].getAttribute('lon'))
+            });
+          }
+
+          for (var i = 0; i < myVidPos; i++) {
+            myTrackCoordinates.push({
+              lat: Number(myTargetTag[i].getAttribute('lat')),
+              lng: Number(myTargetTag[i].getAttribute('lon'))
+            });
+          }
+
+          var myPath = new google.maps.Polyline({
+            path: myPathCoordinates,
+            strokeColor: '#0000FF',
+            zIndex: 1
+          });
+
+          var myTrack = new google.maps.Polyline({
+            path: myTrackCoordinates,
+            strokeColor: '#FF0000',
+            zIndex: 2
+          });
+
+          myPath.setMap(gMap);
+          myTrack.setMap(gMap);
+        }
+      }
+    }
+
+    myReq.open("GET", "CyclingParis.xml", true);
+    myReq.send();
+  </script>
+
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCt1SYtT9cwpEc7n30sUlE65CxD4d0qI64&callback=initMap" async
+    defer></script>
+
+</body>
+
+</html>

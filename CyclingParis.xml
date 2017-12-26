@@ -1,0 +1,2496 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2017-05-24T15:58:59Z</time>
+    <bounds maxlat="48.874230813235044" maxlon="2.295729601755738" minlat="48.858981784433126" minlon="2.286762641742826"/>
+  </metadata>
+  <trk>
+    <name>VirbParis</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="48.873567804694176" lon="2.293228274211287">
+        <ele>32.571201324462891</ele>
+        <time>2017-05-14T13:17:35Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>51</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">86</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87356897816062" lon="2.293248558416963">
+        <ele>34.680229187011719</ele>
+        <time>2017-05-14T13:17:36Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>21</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">69</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873568894341588" lon="2.293306225910783">
+        <ele>34.92724609375</ele>
+        <time>2017-05-14T13:17:37Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>136</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">68</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873571492731571" lon="2.293362300843">
+        <ele>34.676601409912109</ele>
+        <time>2017-05-14T13:17:38Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>135</gpxtpx:hr>
+            <gpxtpx:cad>28</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">68</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87357727624476" lon="2.293425668030977">
+        <ele>33.688758850097656</ele>
+        <time>2017-05-14T13:17:39Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>134</gpxtpx:hr>
+            <gpxtpx:cad>49</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">225</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873584400862455" lon="2.293492052704096">
+        <ele>34.162517547607422</ele>
+        <time>2017-05-14T13:17:40Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>134</gpxtpx:hr>
+            <gpxtpx:cad>57</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">336</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873606529086828" lon="2.293566735461354">
+        <ele>34.247917175292969</ele>
+        <time>2017-05-14T13:17:41Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>133</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">343</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873623795807362" lon="2.293654242530465">
+        <ele>33.981410980224609</ele>
+        <time>2017-05-14T13:17:42Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>133</gpxtpx:hr>
+            <gpxtpx:cad>71</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">380</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873636787757277" lon="2.293748203665018">
+        <ele>33.764171600341797</ele>
+        <time>2017-05-14T13:17:43Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>134</gpxtpx:hr>
+            <gpxtpx:cad>74</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">392</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873641565442085" lon="2.2938440926373">
+        <ele>34.002132415771484</ele>
+        <time>2017-05-14T13:17:44Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>135</gpxtpx:hr>
+            <gpxtpx:cad>75</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">352</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873627483844757" lon="2.293935706838965">
+        <ele>34.034835815429688</ele>
+        <time>2017-05-14T13:17:45Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>77</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">414</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873605607077479" lon="2.294022208079696">
+        <ele>33.636676788330078</ele>
+        <time>2017-05-14T13:17:46Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>139</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">512</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873584736138582" lon="2.294114241376519">
+        <ele>33.953914642333984</ele>
+        <time>2017-05-14T13:17:47Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>141</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">521</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87356017716229" lon="2.294211219996214">
+        <ele>34.040027618408203</ele>
+        <time>2017-05-14T13:17:48Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>144</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">458</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873532433062792" lon="2.294309288263321">
+        <ele>34.18853759765625</ele>
+        <time>2017-05-14T13:17:49Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>145</gpxtpx:hr>
+            <gpxtpx:cad>84</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">397</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873506532981992" lon="2.294412134215236">
+        <ele>34.235038757324219</ele>
+        <time>2017-05-14T13:17:50Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">427</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873474262654781" lon="2.294516824185848">
+        <ele>34.171657562255859</ele>
+        <time>2017-05-14T13:17:51Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>148</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">462</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873437382280827" lon="2.294623106718063">
+        <ele>34.530719757080078</ele>
+        <time>2017-05-14T13:17:52Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>92</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">459</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873406872153282" lon="2.29473777115345">
+        <ele>34.588611602783203</ele>
+        <time>2017-05-14T13:17:53Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>151</gpxtpx:hr>
+            <gpxtpx:cad>90</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">436</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873386671766639" lon="2.294858219102025">
+        <ele>34.240036010742188</ele>
+        <time>2017-05-14T13:17:54Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">406</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873380301520228" lon="2.294984702020884">
+        <ele>34.2674560546875</ele>
+        <time>2017-05-14T13:17:55Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>154</gpxtpx:hr>
+            <gpxtpx:cad>89</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">363</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873386504128575" lon="2.295114453881979">
+        <ele>34.414833068847656</ele>
+        <time>2017-05-14T13:17:56Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+            <gpxtpx:cad>90</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">341</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873410895466805" lon="2.295236745849252">
+        <ele>34.872055053710938</ele>
+        <time>2017-05-14T13:17:57Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>157</gpxtpx:hr>
+            <gpxtpx:cad>91</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">271</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873450793325901" lon="2.295351158827543">
+        <ele>34.528896331787109</ele>
+        <time>2017-05-14T13:17:58Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>91</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">205</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873501755297184" lon="2.295450819656253">
+        <ele>34.926868438720703</ele>
+        <time>2017-05-14T13:17:59Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+            <gpxtpx:cad>91</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">216</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873563865199685" lon="2.295535560697317">
+        <ele>34.966983795166016</ele>
+        <time>2017-05-14T13:18:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>160</gpxtpx:hr>
+            <gpxtpx:cad>92</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">256</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873637374490499" lon="2.295596832409501">
+        <ele>34.632556915283203</ele>
+        <time>2017-05-14T13:18:01Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>93</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">274</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873716332018375" lon="2.295638406649232">
+        <ele>35.474842071533203</ele>
+        <time>2017-05-14T13:18:02Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>93</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">274</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873799731954932" lon="2.295662043616176">
+        <ele>35.105915069580078</ele>
+        <time>2017-05-14T13:18:03Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>94</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">229</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873884808272123" lon="2.295652823522687">
+        <ele>35.367763519287109</ele>
+        <time>2017-05-14T13:18:04Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>94</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">217</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873968794941902" lon="2.295619547367096">
+        <ele>35.434593200683594</ele>
+        <time>2017-05-14T13:18:05Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>94</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">273</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874045154079795" lon="2.295560203492641">
+        <ele>35.529438018798828</ele>
+        <time>2017-05-14T13:18:06Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>94</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">258</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874112796038389" lon="2.295477977022529">
+        <ele>35.703464508056641</ele>
+        <time>2017-05-14T13:18:07Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>94</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">190</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874164344742894" lon="2.295380746945739">
+        <ele>35.630710601806641</ele>
+        <time>2017-05-14T13:18:08Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>93</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">168</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874202566221356" lon="2.295269602909684">
+        <ele>35.84490966796875</ele>
+        <time>2017-05-14T13:18:09Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>93</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">234</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874225029721856" lon="2.295150998979807">
+        <ele>36.053550720214844</ele>
+        <time>2017-05-14T13:18:10Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>91</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">280</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874230813235044" lon="2.295028623193502">
+        <ele>36.05694580078125</ele>
+        <time>2017-05-14T13:18:11Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>89</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">282</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874218491837382" lon="2.29490733705461">
+        <ele>36.165103912353516</ele>
+        <time>2017-05-14T13:18:12Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">281</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874192927032709" lon="2.294793846085668">
+        <ele>36.369304656982422</ele>
+        <time>2017-05-14T13:18:13Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">257</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874154621735215" lon="2.294688820838928">
+        <ele>36.381767272949219</ele>
+        <time>2017-05-14T13:18:14Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">243</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874104833230376" lon="2.294598296284676">
+        <ele>36.578895568847656</ele>
+        <time>2017-05-14T13:18:15Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">190</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874044315889478" lon="2.294529397040606">
+        <ele>36.705596923828125</ele>
+        <time>2017-05-14T13:18:16Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>84</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">122</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873977093026042" lon="2.294490337371826">
+        <ele>36.600818634033203</ele>
+        <time>2017-05-14T13:18:17Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>33</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">85</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873911630362272" lon="2.294463934376836">
+        <ele>36.762477874755859</ele>
+        <time>2017-05-14T13:18:18Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>44</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">75</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873843988403678" lon="2.294438201934099">
+        <ele>36.884006500244141</ele>
+        <time>2017-05-14T13:18:19Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>76</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">251</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.8737737480551" lon="2.294428981840611">
+        <ele>36.455356597900391</ele>
+        <time>2017-05-14T13:18:20Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>76</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">361</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873701496049762" lon="2.294437950477004">
+        <ele>36.586124420166016</ele>
+        <time>2017-05-14T13:18:21Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">352</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873629495501518" lon="2.294464940205216">
+        <ele>36.972373962402344</ele>
+        <time>2017-05-14T13:18:22Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">283</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873561015352607" lon="2.294514393433928">
+        <ele>36.49871826171875</ele>
+        <time>2017-05-14T13:18:23Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>81</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">208</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873500749468803" lon="2.294582957401872">
+        <ele>36.828964233398438</ele>
+        <time>2017-05-14T13:18:24Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">224</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873450541868806" lon="2.294670548290014">
+        <ele>36.895339965820312</ele>
+        <time>2017-05-14T13:18:25Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>84</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">283</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873411398380995" lon="2.294776830822229">
+        <ele>36.364509582519531</ele>
+        <time>2017-05-14T13:18:26Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">301</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873384576290846" lon="2.294890657067299">
+        <ele>36.566444396972656</ele>
+        <time>2017-05-14T13:18:27Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>167</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">235</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873370662331581" lon="2.295009260997176">
+        <ele>36.487766265869141</ele>
+        <time>2017-05-14T13:18:28Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>84</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">192</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873370159417391" lon="2.295129708945751">
+        <ele>36.767559051513672</ele>
+        <time>2017-05-14T13:18:29Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">201</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87338574975729" lon="2.295247809961438">
+        <ele>36.382762908935547</ele>
+        <time>2017-05-14T13:18:30Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">195</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873415170237422" lon="2.295364234596491">
+        <ele>36.426136016845703</ele>
+        <time>2017-05-14T13:18:31Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">186</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873457163572311" lon="2.295466829091311">
+        <ele>36.286556243896484</ele>
+        <time>2017-05-14T13:18:32Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">153</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873509047552943" lon="2.29555768892169">
+        <ele>36.482368469238281</ele>
+        <time>2017-05-14T13:18:33Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">96</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873571408912539" lon="2.295636143535376">
+        <ele>36.538864135742188</ele>
+        <time>2017-05-14T13:18:34Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">84</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873637625947595" lon="2.295692386105657">
+        <ele>36.538970947265625</ele>
+        <time>2017-05-14T13:18:35Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>36</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">47</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873706860467792" lon="2.29572189040482">
+        <ele>36.829090118408203</ele>
+        <time>2017-05-14T13:18:36Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>46</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">15</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873776011168957" lon="2.295729601755738">
+        <ele>36.738658905029297</ele>
+        <time>2017-05-14T13:18:37Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">218</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873844910413027" lon="2.295714095234871">
+        <ele>36.915168762207031</ele>
+        <time>2017-05-14T13:18:38Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">362</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873915486037731" lon="2.295671263709664">
+        <ele>36.960445404052734</ele>
+        <time>2017-05-14T13:18:39Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">393</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873983630910516" lon="2.295607980340719">
+        <ele>36.983921051025391</ele>
+        <time>2017-05-14T13:18:40Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">431</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874044818803668" lon="2.295530950650573">
+        <ele>36.888851165771484</ele>
+        <time>2017-05-14T13:18:41Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">357</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874100307002664" lon="2.295445119962096">
+        <ele>36.716415405273438</ele>
+        <time>2017-05-14T13:18:42Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>83</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">152</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874146575108171" lon="2.295349230989814">
+        <ele>36.687778472900391</ele>
+        <time>2017-05-14T13:18:43Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">56</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874175073578954" lon="2.295244792476296">
+        <ele>36.467910766601562</ele>
+        <time>2017-05-14T13:18:44Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">162</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874187227338552" lon="2.295133899897337">
+        <ele>36.312572479248047</ele>
+        <time>2017-05-14T13:18:45Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>82</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">257</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87418563477695" lon="2.29502216912806">
+        <ele>36.761390686035156</ele>
+        <time>2017-05-14T13:18:46Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">274</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874176582321525" lon="2.294911947101355">
+        <ele>36.972694396972656</ele>
+        <time>2017-05-14T13:18:47Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>80</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">218</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874153448268771" lon="2.294810023158789">
+        <ele>37.08258056640625</ele>
+        <time>2017-05-14T13:18:48Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">153</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874118160456419" lon="2.294717067852616">
+        <ele>37.154869079589844</ele>
+        <time>2017-05-14T13:18:49Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">99</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874076502397656" lon="2.294639870524406">
+        <ele>37.188884735107422</ele>
+        <time>2017-05-14T13:18:50Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>65</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">46</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.874030485749245" lon="2.294576084241271">
+        <ele>37.125621795654297</ele>
+        <time>2017-05-14T13:18:51Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>63</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">59</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873980026692152" lon="2.294524786993861">
+        <ele>37.007499694824219</ele>
+        <time>2017-05-14T13:18:52Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>66</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">93</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.87392520904541" lon="2.294488409534097">
+        <ele>36.826774597167969</ele>
+        <time>2017-05-14T13:18:53Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>65</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">98</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873868966475129" lon="2.294465024024248">
+        <ele>36.947483062744141</ele>
+        <time>2017-05-14T13:18:54Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>65</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">120</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873812053352594" lon="2.294450774788857">
+        <ele>37.241603851318359</ele>
+        <time>2017-05-14T13:18:55Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">138</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873752038925886" lon="2.294445997104049">
+        <ele>37.041278839111328</ele>
+        <time>2017-05-14T13:18:56Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">305</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873688420280814" lon="2.294451026245952">
+        <ele>37.152332305908203</ele>
+        <time>2017-05-14T13:18:57Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>69</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">423</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873620191588998" lon="2.294469466432929">
+        <ele>37.066394805908203</ele>
+        <time>2017-05-14T13:18:58Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+            <gpxtpx:cad>75</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">492</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873549029231071" lon="2.294498886913061">
+        <ele>36.878849029541016</ele>
+        <time>2017-05-14T13:18:59Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+            <gpxtpx:cad>79</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">536</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873476693406701" lon="2.294541383162141">
+        <ele>36.860340118408203</ele>
+        <time>2017-05-14T13:19:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>83</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">504</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873407123610377" lon="2.294598715379834">
+        <ele>36.829269409179688</ele>
+        <time>2017-05-14T13:19:01Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">400</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873343085870147" lon="2.294671051204205">
+        <ele>36.461757659912109</ele>
+        <time>2017-05-14T13:19:02Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">277</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873284244909883" lon="2.294751852750778">
+        <ele>36.663364410400391</ele>
+        <time>2017-05-14T13:19:03Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">228</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873225906863809" lon="2.294837264344096">
+        <ele>36.581516265869141</ele>
+        <time>2017-05-14T13:19:04Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>87</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">237</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873169831931591" lon="2.294930219650269">
+        <ele>37.115150451660156</ele>
+        <time>2017-05-14T13:19:05Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>88</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">247</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873113002628088" lon="2.295022923499346">
+        <ele>36.962169647216797</ele>
+        <time>2017-05-14T13:19:06Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>37</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">102</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873062627390027" lon="2.295100707560778">
+        <ele>37.143589019775391</ele>
+        <time>2017-05-14T13:19:07Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.873016778379679" lon="2.295150328427553">
+        <ele>36.650703430175781</ele>
+        <time>2017-05-14T13:19:08Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.872971013188362" lon="2.295180251821876">
+        <ele>36.651638031005859</ele>
+        <time>2017-05-14T13:19:09Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.872921392321587" lon="2.295191986486316">
+        <ele>36.676601409912109</ele>
+        <time>2017-05-14T13:19:10Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>31</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">42</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.872869424521923" lon="2.295196847990155">
+        <ele>36.621269226074219</ele>
+        <time>2017-05-14T13:19:11Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>57</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">145</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="48.863481190055609" lon="2.287965193390846">
+        <ele>41.926403045654297</ele>
+        <time>2017-05-14T13:22:43Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863481190055609" lon="2.28795756585896">
+        <ele>41.866657257080078</ele>
+        <time>2017-05-14T13:22:44Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863474316895008" lon="2.287886990234256">
+        <ele>41.938186645507812</ele>
+        <time>2017-05-14T13:22:45Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863456295803189" lon="2.287828736007214">
+        <ele>41.949069976806641</ele>
+        <time>2017-05-14T13:22:46Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863433245569468" lon="2.28778162971139">
+        <ele>41.836433410644531</ele>
+        <time>2017-05-14T13:22:47Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>144</gpxtpx:hr>
+            <gpxtpx:cad>24</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">182</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86341530829668" lon="2.287716334685683">
+        <ele>41.617340087890625</ele>
+        <time>2017-05-14T13:22:48Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>46</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">395</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863410782068968" lon="2.287622625008225">
+        <ele>41.609779357910156</ele>
+        <time>2017-05-14T13:22:49Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>142</gpxtpx:hr>
+            <gpxtpx:cad>52</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">428</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863408351317048" lon="2.287527406588197">
+        <ele>41.154468536376953</ele>
+        <time>2017-05-14T13:22:50Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>141</gpxtpx:hr>
+            <gpxtpx:cad>56</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">389</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863409692421556" lon="2.287427997216582">
+        <ele>41.099716186523438</ele>
+        <time>2017-05-14T13:22:51Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>141</gpxtpx:hr>
+            <gpxtpx:cad>60</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">395</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863404830917716" lon="2.287333784624934">
+        <ele>41.564815521240234</ele>
+        <time>2017-05-14T13:22:52Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>142</gpxtpx:hr>
+            <gpxtpx:cad>63</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">431</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863394018262625" lon="2.287240410223603">
+        <ele>41.508708953857422</ele>
+        <time>2017-05-14T13:22:53Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>142</gpxtpx:hr>
+            <gpxtpx:cad>66</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">456</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863374991342425" lon="2.287145024165511">
+        <ele>41.461585998535156</ele>
+        <time>2017-05-14T13:22:54Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>142</gpxtpx:hr>
+            <gpxtpx:cad>70</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">470</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863344397395849" lon="2.287051733583212">
+        <ele>41.387996673583984</ele>
+        <time>2017-05-14T13:22:55Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>74</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">446</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863298296928406" lon="2.286966741085052">
+        <ele>41.314746856689453</ele>
+        <time>2017-05-14T13:22:56Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>77</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">505</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863241970539093" lon="2.286896836012602">
+        <ele>41.311561584472656</ele>
+        <time>2017-05-14T13:22:57Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>144</gpxtpx:hr>
+            <gpxtpx:cad>81</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">562</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863173238933086" lon="2.286836318671703">
+        <ele>41.248805999755859</ele>
+        <time>2017-05-14T13:22:58Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>145</gpxtpx:hr>
+            <gpxtpx:cad>34</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">232</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863103417679667" lon="2.286796336993575">
+        <ele>41.357250213623047</ele>
+        <time>2017-05-14T13:22:59Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863039128482342" lon="2.286777645349503">
+        <ele>41.446525573730469</ele>
+        <time>2017-05-14T13:23:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862976683303714" lon="2.286771275103092">
+        <ele>41.446178436279297</ele>
+        <time>2017-05-14T13:23:01Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>148</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862914824858308" lon="2.286762809380889">
+        <ele>41.324062347412109</ele>
+        <time>2017-05-14T13:23:02Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86285045184195" lon="2.286762641742826">
+        <ele>41.120235443115234</ele>
+        <time>2017-05-14T13:23:03Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>150</gpxtpx:hr>
+            <gpxtpx:cad>39</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">213</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862786078825593" lon="2.286768676713109">
+        <ele>41.141525268554688</ele>
+        <time>2017-05-14T13:23:04Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>151</gpxtpx:hr>
+            <gpxtpx:cad>67</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">249</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862726734951138" lon="2.286807233467698">
+        <ele>41.509807586669922</ele>
+        <time>2017-05-14T13:23:05Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>152</gpxtpx:hr>
+            <gpxtpx:cad>69</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">205</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862678203731775" lon="2.286866996437311">
+        <ele>41.467910766601562</ele>
+        <time>2017-05-14T13:23:06Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>152</gpxtpx:hr>
+            <gpxtpx:cad>69</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">141</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862632857635617" lon="2.286936650052667">
+        <ele>41.576251983642578</ele>
+        <time>2017-05-14T13:23:07Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>61</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">45</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862595558166504" lon="2.287005297839642">
+        <ele>41.498802185058594</ele>
+        <time>2017-05-14T13:23:08Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>23</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">9</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862580638378859" lon="2.287081908434629">
+        <ele>41.414844512939453</ele>
+        <time>2017-05-14T13:23:09Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862593127414584" lon="2.287149466574192">
+        <ele>41.627109527587891</ele>
+        <time>2017-05-14T13:23:10Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862630594521761" lon="2.287200512364507">
+        <ele>41.459617614746094</ele>
+        <time>2017-05-14T13:23:11Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>152</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862673174589872" lon="2.287255330011249">
+        <ele>41.101757049560547</ele>
+        <time>2017-05-14T13:23:12Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>152</gpxtpx:hr>
+            <gpxtpx:cad>35</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">129</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86271508410573" lon="2.28731551207602">
+        <ele>41.470539093017578</ele>
+        <time>2017-05-14T13:23:13Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>151</gpxtpx:hr>
+            <gpxtpx:cad>62</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">193</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86276101693511" lon="2.28737561032176">
+        <ele>41.338188171386719</ele>
+        <time>2017-05-14T13:23:14Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>151</gpxtpx:hr>
+            <gpxtpx:cad>63</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">175</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86280745267868" lon="2.28743621148169">
+        <ele>41.567691802978516</ele>
+        <time>2017-05-14T13:23:15Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>150</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">164</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862853217869997" lon="2.287497064098716">
+        <ele>40.783679962158203</ele>
+        <time>2017-05-14T13:23:16Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>150</gpxtpx:hr>
+            <gpxtpx:cad>65</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">116</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86289831250906" lon="2.287556827068329">
+        <ele>40.949485778808594</ele>
+        <time>2017-05-14T13:23:17Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>150</gpxtpx:hr>
+            <gpxtpx:cad>27</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">36</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862934689968824" lon="2.287607789039612">
+        <ele>41.020423889160156</ele>
+        <time>2017-05-14T13:23:18Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862958746030927" lon="2.287659253925085">
+        <ele>41.275199890136719</ele>
+        <time>2017-05-14T13:23:19Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862973246723413" lon="2.287713317200541">
+        <ele>41.012123107910156</ele>
+        <time>2017-05-14T13:23:20Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.862987663596869" lon="2.287770146504045">
+        <ele>40.812259674072266</ele>
+        <time>2017-05-14T13:23:21Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>148</gpxtpx:hr>
+            <gpxtpx:cad>25</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">67</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863003170117736" lon="2.287830160930753">
+        <ele>41.340957641601562</ele>
+        <time>2017-05-14T13:23:22Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>148</gpxtpx:hr>
+            <gpxtpx:cad>44</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">162</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863019598647952" lon="2.287891432642937">
+        <ele>41.238727569580078</ele>
+        <time>2017-05-14T13:23:23Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>46</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">164</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863038793206215" lon="2.287957733497024">
+        <ele>41.182655334472656</ele>
+        <time>2017-05-14T13:23:24Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>145</gpxtpx:hr>
+            <gpxtpx:cad>50</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">154</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863057484850287" lon="2.288034176453948">
+        <ele>41.164867401123047</ele>
+        <time>2017-05-14T13:23:25Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>145</gpxtpx:hr>
+            <gpxtpx:cad>54</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">231</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863084306940436" lon="2.288115983828902">
+        <ele>40.971584320068359</ele>
+        <time>2017-05-14T13:23:26Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>62</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">441</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86311624199152" lon="2.288210783153772">
+        <ele>40.856407165527344</ele>
+        <time>2017-05-14T13:23:27Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>72</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">542</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863146081566811" lon="2.288316395133734">
+        <ele>40.513973236083984</ele>
+        <time>2017-05-14T13:23:28Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>77</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">433</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863173490390182" lon="2.288429047912359">
+        <ele>40.330352783203125</ele>
+        <time>2017-05-14T13:23:29Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">272</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863200563937426" lon="2.288545472547412">
+        <ele>40.136409759521484</ele>
+        <time>2017-05-14T13:23:30Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>79</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">208</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863230068236589" lon="2.288665752857924">
+        <ele>39.983478546142578</ele>
+        <time>2017-05-14T13:23:31Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>144</gpxtpx:hr>
+            <gpxtpx:cad>81</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">191</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863259991630912" lon="2.288788296282291">
+        <ele>39.480152130126953</ele>
+        <time>2017-05-14T13:23:32Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>145</gpxtpx:hr>
+            <gpxtpx:cad>83</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">174</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863292597234249" lon="2.288910085335374">
+        <ele>39.306198120117188</ele>
+        <time>2017-05-14T13:23:33Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">156</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.863324951380491" lon="2.289033131673932">
+        <ele>39.186370849609375</ele>
+        <time>2017-05-14T13:23:34Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">124</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="48.861150601878762" lon="2.291446449235082">
+        <ele>19.156326293945312</ele>
+        <time>2017-05-14T13:24:25Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>110</gpxtpx:hr>
+            <gpxtpx:cad>63</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">279</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.861086564138532" lon="2.291411412879825">
+        <ele>19.118015289306641</ele>
+        <time>2017-05-14T13:24:26Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>112</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">238</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.861021436750889" lon="2.291367491707206">
+        <ele>18.765457153320312</ele>
+        <time>2017-05-14T13:24:27Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>116</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">269</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860956057906151" lon="2.291321307420731">
+        <ele>18.773950576782227</ele>
+        <time>2017-05-14T13:24:28Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>119</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">248</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860888667404652" lon="2.291277972981334">
+        <ele>18.136014938354492</ele>
+        <time>2017-05-14T13:24:29Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>122</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">270</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860821779817343" lon="2.291238494217396">
+        <ele>17.943208694458008</ele>
+        <time>2017-05-14T13:24:30Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>125</gpxtpx:hr>
+            <gpxtpx:cad>62</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">229</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860758244991302" lon="2.291199434548616">
+        <ele>17.782464981079102</ele>
+        <time>2017-05-14T13:24:31Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>129</gpxtpx:hr>
+            <gpxtpx:cad>52</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">79</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860700326040387" lon="2.291162554174662">
+        <ele>17.771612167358398</ele>
+        <time>2017-05-14T13:24:32Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>132</gpxtpx:hr>
+            <gpxtpx:cad>19</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">4</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860646011307836" lon="2.291126931086183">
+        <ele>17.758237838745117</ele>
+        <time>2017-05-14T13:24:33Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>134</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860594797879457" lon="2.291092397645116">
+        <ele>17.343835830688477</ele>
+        <time>2017-05-14T13:24:34Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>136</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860556576400995" lon="2.291049482300878">
+        <ele>17.437995910644531</ele>
+        <time>2017-05-14T13:24:35Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.8605338614434" lon="2.291029449552298">
+        <ele>17.374757766723633</ele>
+        <time>2017-05-14T13:24:36Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860520953312516" lon="2.291023917496204">
+        <ele>17.48585319519043</ele>
+        <time>2017-05-14T13:24:37Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86051039211452" lon="2.291020145639777">
+        <ele>17.195789337158203</ele>
+        <time>2017-05-14T13:24:38Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.86048985645175" lon="2.291034646332264">
+        <ele>17.060747146606445</ele>
+        <time>2017-05-14T13:24:39Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860469236969948" lon="2.291057864204049">
+        <ele>17.127307891845703</ele>
+        <time>2017-05-14T13:24:40Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860441241413355" lon="2.291094912216067">
+        <ele>16.775829315185547</ele>
+        <time>2017-05-14T13:24:41Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860411653295159" lon="2.291144952178001">
+        <ele>16.574851989746094</ele>
+        <time>2017-05-14T13:24:42Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>18</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">87</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860377538949251" lon="2.291207397356629">
+        <ele>16.432767868041992</ele>
+        <time>2017-05-14T13:24:43Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>137</gpxtpx:hr>
+            <gpxtpx:cad>40</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">358</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860338646918535" lon="2.291274117305875">
+        <ele>16.601531982421875</ele>
+        <time>2017-05-14T13:24:44Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+            <gpxtpx:cad>48</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">481</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860295815393329" lon="2.291346453130245">
+        <ele>16.573904037475586</ele>
+        <time>2017-05-14T13:24:45Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>140</gpxtpx:hr>
+            <gpxtpx:cad>54</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">474</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860247116535902" lon="2.291426248848438">
+        <ele>16.294500350952148</ele>
+        <time>2017-05-14T13:24:46Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>142</gpxtpx:hr>
+            <gpxtpx:cad>60</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">503</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860197411850095" lon="2.291508726775646">
+        <ele>16.418657302856445</ele>
+        <time>2017-05-14T13:24:47Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>143</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">518</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860145611688495" lon="2.291594473645091">
+        <ele>16.297763824462891</ele>
+        <time>2017-05-14T13:24:48Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>144</gpxtpx:hr>
+            <gpxtpx:cad>66</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">482</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860090794041753" lon="2.291681310161948">
+        <ele>16.35081672668457</ele>
+        <time>2017-05-14T13:24:49Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>146</gpxtpx:hr>
+            <gpxtpx:cad>68</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">428</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.860034048557281" lon="2.291769152507186">
+        <ele>16.402873992919922</ele>
+        <time>2017-05-14T13:24:50Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>147</gpxtpx:hr>
+            <gpxtpx:cad>71</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">456</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859975207597017" lon="2.291857749223709">
+        <ele>16.438905715942383</ele>
+        <time>2017-05-14T13:24:51Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>149</gpxtpx:hr>
+            <gpxtpx:cad>73</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">513</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859915947541595" lon="2.291947770863771">
+        <ele>16.29063606262207</ele>
+        <time>2017-05-14T13:24:52Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>151</gpxtpx:hr>
+            <gpxtpx:cad>74</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">494</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859857022762299" lon="2.292040390893817">
+        <ele>16.301088333129883</ele>
+        <time>2017-05-14T13:24:53Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>152</gpxtpx:hr>
+            <gpxtpx:cad>76</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">467</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859794996678829" lon="2.292133094742894">
+        <ele>16.427932739257812</ele>
+        <time>2017-05-14T13:24:54Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>153</gpxtpx:hr>
+            <gpxtpx:cad>77</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">448</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859732048586011" lon="2.292231665924191">
+        <ele>16.623910903930664</ele>
+        <time>2017-05-14T13:24:55Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>154</gpxtpx:hr>
+            <gpxtpx:cad>78</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">415</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.85966993868351" lon="2.292328225448728">
+        <ele>16.561466217041016</ele>
+        <time>2017-05-14T13:24:56Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+            <gpxtpx:cad>79</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">369</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859607074409723" lon="2.292425790801644">
+        <ele>16.619260787963867</ele>
+        <time>2017-05-14T13:24:57Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>156</gpxtpx:hr>
+            <gpxtpx:cad>79</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">413</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859538845717907" lon="2.292528804391623">
+        <ele>16.574361801147461</ele>
+        <time>2017-05-14T13:24:58Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>157</gpxtpx:hr>
+            <gpxtpx:cad>81</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">638</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859471958130598" lon="2.29263374581933">
+        <ele>16.686910629272461</ele>
+        <time>2017-05-14T13:24:59Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>157</gpxtpx:hr>
+            <gpxtpx:cad>83</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">678</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.85940071195364" lon="2.292734915390611">
+        <ele>16.805967330932617</ele>
+        <time>2017-05-14T13:25:00Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>158</gpxtpx:hr>
+            <gpxtpx:cad>84</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">491</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859326280653477" lon="2.292831223458052">
+        <ele>16.962530136108398</ele>
+        <time>2017-05-14T13:25:01Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">406</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859248831868172" lon="2.292925603687763">
+        <ele>16.940803527832031</ele>
+        <time>2017-05-14T13:25:02Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+            <gpxtpx:cad>86</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">324</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859167527407408" lon="2.293007494881749">
+        <ele>16.859857559204102</ele>
+        <time>2017-05-14T13:25:03Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>160</gpxtpx:hr>
+            <gpxtpx:cad>85</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">218</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859086474403739" lon="2.293084356933832">
+        <ele>17.123159408569336</ele>
+        <time>2017-05-14T13:25:04Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>35</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">77</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859026124700904" lon="2.293176390230656">
+        <ele>17.279270172119141</ele>
+        <time>2017-05-14T13:25:05Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>161</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.858990082517266" lon="2.293287869542837">
+        <ele>17.375347137451172</ele>
+        <time>2017-05-14T13:25:06Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.858981784433126" lon="2.293402953073382">
+        <ele>17.375045776367188</ele>
+        <time>2017-05-14T13:25:07Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859008690342307" lon="2.29349615983665">
+        <ele>17.359586715698242</ele>
+        <time>2017-05-14T13:25:08Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859049342572689" lon="2.293567741289735">
+        <ele>17.343381881713867</ele>
+        <time>2017-05-14T13:25:09Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859075242653489" lon="2.293644100427628">
+        <ele>17.324724197387695</ele>
+        <time>2017-05-14T13:25:10Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.85910508222878" lon="2.293715765699744">
+        <ele>17.201017379760742</ele>
+        <time>2017-05-14T13:25:11Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859143974259496" lon="2.293779971078038">
+        <ele>16.912620544433594</ele>
+        <time>2017-05-14T13:25:12Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>0</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">0</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.8591852132231" lon="2.293847445398569">
+        <ele>16.944128036499023</ele>
+        <time>2017-05-14T13:25:13Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>32</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">126</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859231816604733" lon="2.293916344642639">
+        <ele>16.77549934387207</ele>
+        <time>2017-05-14T13:25:14Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>57</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">212</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859283030033112" lon="2.293983567506075">
+        <ele>16.933004379272461</ele>
+        <time>2017-05-14T13:25:15Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>60</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">208</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859333824366331" lon="2.294056238606572">
+        <ele>16.740390777587891</ele>
+        <time>2017-05-14T13:25:16Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+            <gpxtpx:cad>62</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">217</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859387468546629" lon="2.294130753725767">
+        <ele>16.739566802978516</ele>
+        <time>2017-05-14T13:25:17Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>64</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">205</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859442286193371" lon="2.294205604121089">
+        <ele>16.531637191772461</ele>
+        <time>2017-05-14T13:25:18Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>65</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">150</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859499702230096" lon="2.294281041249633">
+        <ele>16.433603286743164</ele>
+        <time>2017-05-14T13:25:19Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>165</gpxtpx:hr>
+            <gpxtpx:cad>66</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">110</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.859557956457138" lon="2.294358238577843">
+        <ele>16.339056015014648</ele>
+        <time>2017-05-14T13:25:20Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>164</gpxtpx:hr>
+            <gpxtpx:cad>67</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">101</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+      <trkpt lat="48.85961813852191" lon="2.294434178620577">
+        <ele>16.248058319091797</ele>
+        <time>2017-05-14T13:25:21Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>163</gpxtpx:hr>
+            <gpxtpx:cad>68</gpxtpx:cad>
+          </gpxtpx:TrackPointExtension>
+          <gpxx:TrackPointExtension/>
+          <pwr:PowerInWatts xmlns:pwr="http://www.garmin.com/xmlschemas/PowerExtension/v1">102</pwr:PowerInWatts>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
